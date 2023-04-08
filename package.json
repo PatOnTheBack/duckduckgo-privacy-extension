@@ -72,7 +72,7 @@
     "eventemitter2": "4.1.0",
     "file-url": "2.0.2",
     "is-plain-object": "2.0.1",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "jsbloom": "git://github.com/duckduckgo/jsbloom.git#1.0",
     "normalize.scss": "0.1.0",
     "object.values": "1.0.4",
@@ -82,8 +82,8 @@
     "runtimer": "1.0.3",
     "tabular-json": "0.1.3",
     "tldjs": "2.2.0",
-    "underscore": "1.8.3",
-    "web-ext": "2.9.2",
+    "underscore": "1.12.1",
+    "web-ext": "7.1.1",
     "xvfb": "0.2.3"
   },
   "babel": {
