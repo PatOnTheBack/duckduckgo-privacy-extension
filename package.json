@@ -63,7 +63,7 @@
   "dependencies": {
     "@duckduckgo/privacy-grade": "1.0.0",
     "abp-filter-parser": "git://github.com/duckduckgo/abp-filter-parser.git#0.2.0",
-    "bel": "4.6.0",
+    "bel": "5.0.0",
     "chalk": "2.1.0",
     "change-case": "3.0.1",
     "commander": "2.11.0",
